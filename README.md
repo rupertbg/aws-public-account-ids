@@ -1,5 +1,5 @@
 # Publicly-Listed AWS Accounts
-This is a communal list of the AWS Account IDs that are available publicly on the internet. Pull Requests encouraged!
+This is a communal list of any AWS Account IDs owned by anyone that are available publicly on the internet. Pull Requests encouraged!
 
 ## Usage
 ### JSON File
