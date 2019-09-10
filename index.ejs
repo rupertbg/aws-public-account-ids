@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="css/normalise.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Publicly-Listed AWS Accounts</h1>
+      </header>
+      <table id="table">
+        <thead>
+          <tr>
+            <th>Account ID</th>
+            <th>Owner</th>
+            <th>Description</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% accounts.forEach(function(acc){ %>
+              <tr>
+                <td><%= acc.AccountId %></td>
+                <td><%= acc.Owner %></td>
+                <td><%= acc.Description %></td>
+                <td><a href="<%= acc.Source %>" target="_blank">Link</a></td>
+              </tr>
+          <%  }); %>
+        </tbody>
+      </table>
+    </div>
+  </body>
+  <script>
+    $(document).ready(function() {
+      var table = $('#table').DataTable({
+        pageLength: 25,
+        order: [
+          [1, 'asc']
+        ]
+      });
+    });
+  </script>
+</html>

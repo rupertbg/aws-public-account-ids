@@ -1,0 +1,22 @@
+{
+  "name": "aws-public-account-ids",
+  "version": "1.0.0",
+  "description": "A list of publically-listed AWS account IDs",
+  "main": "generate.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupertbg/aws-public-account-ids.git"
+  },
+  "keywords": [
+    "AWS"
+  ],
+  "author": "Rupert Bryant-Greene <input@rupertbg.nz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rupertbg/aws-public-account-ids/issues"
+  },
+  "homepage": "https://github.com/rupertbg/aws-public-account-ids#readme",
+  "dependencies": {
+    "ejs": "^2.7.1"
+  }
+}

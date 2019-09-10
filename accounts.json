@@ -1,0 +1,236 @@
+[
+  {
+    "Owner": "Sumo Logic",
+    "Source": "https://help.sumologic.com/03Send-Data/Sources/02Sources-for-Hosted-Collectors/Amazon-Web-Services/Grant-Access-to-an-AWS-Product#IAM_Role",
+    "Description": "Account belonging to Sumo Logic used for ingestion of logs from customers' AWS accounts",
+    "AccountId": "926226587429"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - US East (Ohio)",
+    "AccountId": "771736226457"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - US East (N. Virginia)",
+    "AccountId": "055650462987"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - US West (N. California)",
+    "AccountId": "208867197265"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - US West (Oregon)",
+    "AccountId": "736298361104"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - Asia Pacific (Mumbai)",
+    "AccountId": "063610658798"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - Asia Pacific (Seoul)",
+    "AccountId": "518632624599"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - Asia Pacific (Singapore)",
+    "AccountId": "448676862907"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - Asia Pacific (Sydney)",
+    "AccountId": "288718191711"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - Asia Pacific (Tokyo)",
+    "AccountId": "620757817088"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - Canada (Central)",
+    "AccountId": "838331228873"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - EU (Frankfurt)",
+    "AccountId": "992038834663"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - EU (Ireland)",
+    "AccountId": "805538244694"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - EU (London)",
+    "AccountId": "838331228873"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - EU (Paris)",
+    "AccountId": "063566772258"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/efs/latest/ug/logging-using-cloudtrail.html",
+    "Description": "Elastic File System (EFS) - AWS GovCloud (US-West)",
+    "AccountId": "174619389399"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - US East (N. Virginia) - us-east-1",
+    "AccountId": "127311923021"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - US East (Ohio) - us-east-2",
+    "AccountId": "033677994240"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - US West (N. California) - us-west-1",
+    "AccountId": "027434742980"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - US West (Oregon) - us-west-2",
+    "AccountId": "797873946194"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - Canada (Central) - ca-central-1",
+    "AccountId": "985666609251"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - EU (Frankfurt) - eu-central-1",
+    "AccountId": "054676820928"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - EU (Ireland) - eu-west-1",
+    "AccountId": "156460612806"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - EU (London) - eu-west-2",
+    "AccountId": "652711504416"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - EU (Paris) - eu-west-3",
+    "AccountId": "009996457667"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - EU (Stockholm) - eu-north-1",
+    "AccountId": "897822967062"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - Asia Pacific (Hong Kong) - ap-east-1",
+    "AccountId": "754344448648"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - Asia Pacific (Tokyo) - ap-northeast-1",
+    "AccountId": "582318560864"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - Asia Pacific (Seoul) - ap-northeast-2",
+    "AccountId": "600734575887"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - Asia Pacific (Osaka-Local) - ap-northeast-3",
+    "AccountId": "383597477331"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - Asia Pacific (Singapore) - ap-southeast-1",
+    "AccountId": "114774131450"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - Asia Pacific (Sydney) - ap-southeast-2",
+    "AccountId": "783225319266"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - Asia Pacific (Mumbai) - ap-south-1",
+    "AccountId": "718504428378"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - Middle East (Bahrain) - me-south-1",
+    "AccountId": "076674570225"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - South America (São Paulo) - sa-east-1",
+    "AccountId": "507241528517"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - AWS GovCloud (US-West) - us-gov-west-1",
+    "AccountId": "048591011584"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - AWS GovCloud (US-East) - us-gov-east-1",
+    "AccountId": "190560391635"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - China (Beijing) - cn-north-1",
+    "AccountId": "638102146993"
+  },
+  {
+    "Owner": "Amazon Web Services",
+    "Source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+    "Description": "Elastic Load Balancing (ELB) - China (Ningxia) - cn-northwest-1",
+    "AccountId": "037604701340"
+  }
+]

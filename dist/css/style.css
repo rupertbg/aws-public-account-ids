@@ -1,0 +1,24 @@
+body {
+  background: #000;
+  width: 100vw;
+  font-family: sans-serif;
+}
+
+header {
+  background: black;
+  color: white;
+  margin: 0 0 1em 0;
+  padding: 6px 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+.container {
+  background: white;
+  margin: 0 auto;
+  max-width: 1280px;
+  padding: .25em;
+}
