@@ -7,10 +7,10 @@ The source-of-truth is [`accounts.json`](https://raw.githubusercontent.com/ruper
 #### Schema
 ```json
 {
-  "AccountId": "123456789012",
-  "Owner": "e.g. name of company",
-  "Description": "Short description of the known purpose of the account",
-  "Source": "URL to the public listing of the account"
+  "id": "123456789012",
+  "owner": "e.g. name of company",
+  "description": "Short description of the known purpose of the account",
+  "source": "URL to the public listing of the account"
 }
 ```
 ### Data Viewer

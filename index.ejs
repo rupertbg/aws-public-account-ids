@@ -23,10 +23,10 @@
         <tbody>
           <% accounts.forEach(function(acc){ %>
               <tr>
-                <td><%= acc.AccountId %></td>
-                <td><%= acc.Owner %></td>
-                <td><%= acc.Description %></td>
-                <td><a href="<%= acc.Source %>" target="_blank">Link</a></td>
+                <td><%= acc.id %></td>
+                <td><%= acc.owner %></td>
+                <td><%= acc.description %></td>
+                <td><a href="<%= acc.source %>" target="_blank">Link</a></td>
               </tr>
           <%  }); %>
         </tbody>
