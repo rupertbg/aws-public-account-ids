@@ -479,4 +479,9 @@
   "source": "https://threatstack.zendesk.com/hc/en-us/articles/206006626-AWS-EC2-Integration",
   "description": "Threat Stack",
   "id": "896126563706"
+}, {
+  "owner": "JupiterOne",
+  "source": "https://github.com/JupiterOne/jupiterone-aws-cloudformation/commit/0adf947dc98404cef1eee1f570f39c05c87d3f41",
+  "description": "JupiterOne",
+  "id": "612791702201"
 }]
