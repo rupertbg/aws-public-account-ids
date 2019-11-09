@@ -484,4 +484,9 @@
   "source": "https://github.com/JupiterOne/jupiterone-aws-cloudformation/commit/0adf947dc98404cef1eee1f570f39c05c87d3f41",
   "description": "JupiterOne",
   "id": "612791702201"
+}, {
+  "owner": "Rapid7",
+  "source": "https://insightvm.help.rapid7.com/docs/aws-connect-to-cloud-configuration-assessment",
+  "description": "Rapid7 InsightVM Cloud Configuration",
+  "id": "336818582268"
 }]
