@@ -489,4 +489,9 @@
   "source": "https://insightvm.help.rapid7.com/docs/aws-connect-to-cloud-configuration-assessment",
   "description": "Rapid7 InsightVM Cloud Configuration",
   "id": "336818582268"
+}, {
+  "owner": "DuckbillGroup",
+  "source": "https://www.lastweekinaws.com/blog/are-aws-account-ids-sensitive-information/",
+  "description": "Corey Quinn's Account ID",
+  "id": "024196225137"
 }]
