@@ -490,6 +490,11 @@
   "description": "Rapid7 InsightVM Cloud Configuration",
   "id": "336818582268"
 }, {
+  "owner": "DuckbillGroup",
+  "source": "https://www.lastweekinaws.com/blog/are-aws-account-ids-sensitive-information/",
+  "description": "Corey Quinn's Account ID",
+  "id": "024196225137"
+}, {
   "owner": "Wiz",
   "description": "Wiz",
   "id": "197171649850"
