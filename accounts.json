@@ -494,4 +494,55 @@
   "source": "https://www.lastweekinaws.com/blog/are-aws-account-ids-sensitive-information/",
   "description": "Corey Quinn's Account ID",
   "id": "024196225137"
+}, {
+  "owner": "Wiz",
+  "description": "Wiz",
+  "id": "197171649850"
+  }, {
+  "owner": "Permiso",
+  "description": "Permiso",
+  "id": "940313271035"
+}, {
+  "owner": "Vanta",
+  "description": "Vanta",
+  "id": "956993596390"
+}, {
+  "owner": "Grafana",
+  "description": "Grafana CloudWatch Integration",
+  "id": "008923505280",
+  "source": "https://grafana.com/docs/grafana-cloud/integrations/integrations/integration-cloudwatch/"
+}, {
+  "owner": "Data Theorem",
+  "description": "Data Theorem",
+  "id": "835257243705"
+}, {
+  "owner": "Orca Security",
+  "description": "Orca Security",
+  "id": "976280145156",
+  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+}, {
+  "owner": "Orca Security",
+  "description": "Orca Security",
+  "id": "727815099310",
+  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+}, {
+  "owner": "Orca Security",
+  "description": "Orca Security",
+  "id": "553950354547",
+  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+}, {
+  "owner": "Orca Security",
+  "description": "Orca Security",
+  "id": "135916806842",
+  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+}, {
+  "owner": "Orca Security",
+  "description": "Orca Security",
+  "id": "463932680998",
+  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+}, {
+  "owner": "Orca Security",
+  "description": "Orca Security",
+  "id": "784971140435",
+  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
 }]
