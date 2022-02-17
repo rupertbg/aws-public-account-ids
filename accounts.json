@@ -1164,91 +1164,91 @@
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway us-east-1",
+  "description": "API Gateway - us-east-1",
   "id": "392220576650"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway us-east-2",
+  "description": "API Gateway - us-east-2",
   "id": "718770453195"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway us-west-1",
+  "description": "API Gateway - us-west-1",
   "id": "968246515281"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway us-west-2",
+  "description": "API Gateway - us-west-2",
   "id": "109351309407"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ca-central-1",
+  "description": "API Gateway - ca-central-1",
   "id": "796887884028"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-west-1",
+  "description": "API Gateway - eu-west-1",
   "id": "631144002099"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-west-2",
+  "description": "API Gateway - eu-west-2",
   "id": "544388816663"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-west-3",
+  "description": "API Gateway - eu-west-3",
   "id": "061510835048"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-central-1",
+  "description": "API Gateway - eu-central-1",
   "id": "474240146802"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-north-1",
+  "description": "API Gateway - eu-north-1",
   "id": "394634713161"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-northeast-1",
+  "description": "API Gateway - ap-northeast-1",
   "id": "969236854626"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-northeast-2",
+  "description": "API Gateway - ap-northeast-2",
   "id": "020402002396"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-southeast-1",
+  "description": "API Gateway - ap-southeast-1",
   "id": "195145609632"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-southeast-2",
+  "description": "API Gateway - ap-southeast-2",
   "id": "798376113853"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-south-1",
+  "description": "API Gateway - ap-south-1",
   "id": "507069717855"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-east-1",
+  "description": "API Gateway - ap-east-1",
   "id": "174803364771"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway sa-east-1",
+  "description": "API Gateway - sa-east-1",
   "id": "287228555773"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway me-south-1",
+  "description": "API Gateway - me-south-1",
   "id": "855739686837"
 }]
