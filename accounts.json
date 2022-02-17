@@ -445,127 +445,127 @@
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail US East (Ohio) us-east-2",
+  "description": "AWS CloudTrail - US East (Ohio) - us-east-2",
   "id": "475085895292"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail US East (N. Virginia) us-east-1",
+  "description": "AWS CloudTrail - US East (N. Virginia) - us-east-1",
   "id": "086441151436"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail US West (N. California) us-west-1",
+  "description": "AWS CloudTrail - US West (N. California) - us-west-1",
   "id": "388731089494"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail US West (Oregon) us-west-2",
+  "description": "AWS CloudTrail - US West (Oregon) - us-west-2",
   "id": "113285607260"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Canada (Central) ca-central-1",
+  "description": "AWS CloudTrail - Canada (Central) - ca-central-1",
   "id": "819402241893"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Africa (Cape Town) af-south-1",
+  "description": "AWS CloudTrail - Africa (Cape Town) - af-south-1",
   "id": "525921808201"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Hong Kong) ap-east-1",
+  "description": "AWS CloudTrail - Asia Pacific (Hong Kong) - ap-east-1",
   "id": "119688915426"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Mumbai) ap-south-1",
+  "description": "AWS CloudTrail - Asia Pacific (Mumbai) - ap-south-1",
   "id": "977081816279"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Osaka) ap-northeast-3",
+  "description": "AWS CloudTrail - Asia Pacific (Osaka) - ap-northeast-3",
   "id": "765225791966"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Seoul) ap-northeast-2",
+  "description": "AWS CloudTrail - Asia Pacific (Seoul) - ap-northeast-2",
   "id": "492519147666"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Singapore) ap-southeast-1",
+  "description": "AWS CloudTrail - Asia Pacific (Singapore) - ap-southeast-1",
   "id": "903692715234"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Sydney) ap-southeast-2",
+  "description": "AWS CloudTrail - Asia Pacific (Sydney) - ap-southeast-2",
   "id": "284668455005"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Tokyo) ap-northeast-1",
+  "description": "AWS CloudTrail - Asia Pacific (Tokyo) - ap-northeast-1",
   "id": "216624486486"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail China (Beijing) cn-north-1",
+  "description": "AWS CloudTrail - China (Beijing) - cn-north-1",
   "id": "193415116832"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail China (Ningxia) cn-northwest-1",
+  "description": "AWS CloudTrail - China (Ningxia) - cn-northwest-1",
   "id": "681348832753"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Frankfurt) eu-central-1",
+  "description": "AWS CloudTrail - Europe (Frankfurt) - eu-central-1",
   "id": "035351147821"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Stockholm) eu-north-1",
+  "description": "AWS CloudTrail - Europe (Stockholm) - eu-north-1",
   "id": "829690693026"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Ireland) eu-west-1",
+  "description": "AWS CloudTrail - Europe (Ireland) - eu-west-1",
   "id": "859597730677"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (London) eu-west-2",
+  "description": "AWS CloudTrail - Europe (London) - eu-west-2",
   "id": "282025262664"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Paris) eu-west-3",
+  "description": "AWS CloudTrail - Europe (Paris) - eu-west-3",
   "id": "262312530599"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Milan) eu-south-1",
+  "description": "AWS CloudTrail - Europe (Milan) - eu-south-1",
   "id": "669305197877"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail South America (São Paulo) sa-east-1",
+  "description": "AWS CloudTrail - South America (São Paulo) - sa-east-1",
   "id": "814480443879"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Middle East (Bahrain) me-south-1",
+  "description": "AWS CloudTrail - Middle East (Bahrain) - me-south-1",
   "id": "034638983726"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail AWS GovCloud (US-East) us-gov-east-1",
+  "description": "AWS CloudTrail - AWS GovCloud (US-East) - us-gov-east-1",
   "id": "886388586500"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail AWS GovCloud (US-West) us-gov-west-1",
+  "description": "AWS CloudTrail - AWS GovCloud (US-West) - us-gov-west-1",
   "id": "608710470296"
 }, {
   "owner": "Summit Route",
