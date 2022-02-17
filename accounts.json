@@ -333,90 +333,130 @@
   "description": "Managed and supported open source solutions for Apache Cassandra, Apache Kafka, Apache Spark, Elasticsearch, Apache Zeppelin, Kibana etc",
   "id": "624537489435"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail US East (Ohio) us-east-2",
   "id": "475085895292"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail US East (N. Virginia) us-east-1",
   "id": "086441151436"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail US West (N. California) us-west-1",
   "id": "388731089494"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail US West (Oregon) us-west-2",
   "id": "113285607260"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Canada (Central) ca-central-1",
   "id": "819402241893"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Africa (Cape Town) af-south-1",
+  "id": "525921808201"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+  "description": "AWS CloudTrail Asia Pacific (Hong Kong) ap-east-1",
+  "id": "119688915426"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+  "description": "AWS CloudTrail Asia Pacific (Mumbai) ap-south-1",
   "id": "977081816279"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Asia Pacific (Osaka) ap-northeast-3",
   "id": "765225791966"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Asia Pacific (Seoul) ap-northeast-2",
   "id": "492519147666"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Asia Pacific (Singapore) ap-southeast-1",
   "id": "903692715234"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Asia Pacific (Sydney) ap-southeast-2",
   "id": "284668455005"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Asia Pacific (Tokyo) ap-northeast-1",
   "id": "216624486486"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail China (Beijing) cn-north-1",
+  "id": "193415116832"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+  "description": "AWS CloudTrail China (Ningxia) cn-northwest-1",
   "id": "681348832753"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Europe (Frankfurt) eu-central-1",
   "id": "035351147821"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Europe (Stockholm) eu-north-1",
+  "id": "829690693026"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+  "description": "AWS CloudTrail Europe (Ireland) eu-west-1",
   "id": "859597730677"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Europe (London) eu-west-2",
   "id": "282025262664"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Europe (Paris) eu-west-3",
   "id": "262312530599"
 }, {
-  "owner": "CloudTrail",
+  "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "CloudTrail",
+  "description": "AWS CloudTrail Europe (Milan) eu-south-1",
+  "id": "669305197877"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+  "description": "AWS CloudTrail South America (São Paulo) sa-east-1",
   "id": "814480443879"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+  "description": "AWS CloudTrail Middle East (Bahrain) me-south-1",
+  "id": "034638983726"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+  "description": "AWS CloudTrail AWS GovCloud (US-East) us-gov-east-1",
+  "id": "886388586500"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+  "description": "AWS CloudTrail AWS GovCloud (US-West) us-gov-west-1",
+  "id": "608710470296"
 }, {
   "owner": "Summit Route",
   "source": "https://summitroute.com/aws_security_assessments/",
@@ -438,15 +478,25 @@
   "description": "Spotinst",
   "id": "922761411349"
 }, {
-  "owner": "Redlock",
-  "source": "https://docs.paloaltonetworks.com/redlock/redlock-admin/connect-your-cloud-platform-to-redlock/onboard-your-aws-account/set-up-your-aws-account.html",
-  "description": "Redlock",
+  "owner": "Palo Alto Networks",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Palo Alto Networks Cloud Enterprise (formerly Redlock)",
   "id": "188619942792"
+}, {
+  "owner": "Palo Alto Networks",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Palo Alto Networks Prisma Cloud Compute (formerly Twistlock)",
+  "id": "496947949261"
 }, {
   "owner": "Sumo Logic",
   "source": "https://help.sumologic.com/03Send-Data/sources/02sources-for-Hosted-Collectors/Amazon-Web-Services/Grant-Access-to-an-AWS-Product#IAM_Role",
   "description": "Account belonging to Sumo Logic used for ingestion of logs from customers' AWS accounts",
   "id": "926226587429"
+}, {
+  "owner": "Sumo Logic",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Sumo Logic Machine Data Analytics",
+  "id": "956882708938"
 }, {
   "owner": "Bridgecrew",
   "description": "Bridgecrew",
@@ -498,7 +548,7 @@
   "owner": "Wiz",
   "description": "Wiz",
   "id": "197171649850"
-  }, {
+}, {
   "owner": "Permiso",
   "description": "Permiso",
   "id": "940313271035"
@@ -545,4 +595,550 @@
   "description": "Orca Security",
   "id": "784971140435",
   "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+}, {
+  "owner": "Microsoft",
+  "source": "https://docs.microsoft.com/en-us/azure/cost-management/aws-integration-manage",
+  "description": "Azure Billing Management",
+  "id": "432263259397"
+}, {
+  "owner": "Lucidchart",
+  "source": "https://lucidchart.zendesk.com/hc/en-us/articles/208018563-Create-an-IAM-User-or-a-Cross-Account-Role-in-AWS-for-Lucidchart",
+  "description": "Lucidchart",
+  "id": "799803075172"
+}, {
+  "owner": "Workato",
+  "source": "https://docs.workato.com/connectors/s3.html",
+  "description": "Workato",
+  "id": "353360065216"
+}, {
+  "owner": "Palo Alto Networks",
+  "source": "https://github.com/terraform-providers/terraform-provider-aws/issues/6674",
+  "description": "Palo Alto Networks",
+  "id": "122442690527"
+}, {
+  "owner": "CloudZero",
+  "source": "https://www.cloudzero.com/hubfs/CloudZero%20Configuration%20Guide%20-%20Automated.pdf",
+  "description": "CloudZero",
+  "id": "061190967865"
+}, {
+  "owner": "Cloudinary",
+  "source": "https://support.cloudinary.com/hc/en-us/articles/203276521-How-do-I-allow-Cloudinary-to-read-from-my-private-S3-bucket-",
+  "description": "Cloudinary",
+  "id": "232482882421"
+}, {
+  "owner": "Nessus",
+  "source": "https://docs.tenable.com/tenableio/vulnerabilitymanagement/Content/Settings/Connectors_ConfigureAWS_KeylessAutoDiscovery.htm",
+  "description": "Nessus AWS Connector",
+  "id": "012615275169"
+}, {
+  "owner": "Stitch",
+  "source": "https://www.stitchdata.com/docs/destinations/amazon-s3/connecting-an-amazon-s3-data-warehouse-to-stitch",
+  "description": "Stitch",
+  "id": "218546966473"
+}, {
+  "owner": "Emnify",
+  "source": "https://www.emnify.com/datastreamer-integration-into-aws",
+  "description": "Emnify",
+  "id": "884047677700"
+}, {
+  "owner": "Qualys",
+  "source": "https://qualysguard.qualys.com/qwebhelp/fo_portal/scans/ec2_connector.htm",
+  "description": "Qualys Cloud View",
+  "id": "080595016317"
+}, {
+  "owner": "Qualys",
+  "source": "https://qualysguard.qualys.com/qwebhelp/fo_portal/scans/ec2_connector.htm",
+  "description": "Qualys Cloud View",
+  "id": "205767712438"
+}, {
+  "owner": "Auth0",
+  "source": "https://auth0.com/docs/integrations/aws/sso",
+  "description": "Auth0",
+  "id": "951887872838"
+}, {
+  "owner": "Altus",
+  "source": "https://blog.cloudera.com/cloudera-altus-cloud-services-youre-in-control-part-2/",
+  "description": "Altus",
+  "id": "062663104137"
+}, {
+  "owner": "AlertLogic",
+  "source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
+  "description": "AlertLogic",
+  "id": "239734009475"
+}, {
+  "owner": "AlertLogic",
+  "source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
+  "description": "AlertLogic",
+  "id": "733251395267"
+}, {
+  "owner": "AlertLogic",
+  "source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
+  "description": "AlertLogic",
+  "id": "857795874556"
+}, {
+  "owner": "CloudConformity",
+  "source": "https://github.com/cloudconformity/documentation-api/blob/master/Accounts.md#update-account",
+  "description": "CloudConformity",
+  "id": "717210094962"
+}, {
+  "owner": "FortiCWP",
+  "source": "https://docs.fortinet.com/document/forticwp/4.4.0/online-help/828941/amazon-web-services",
+  "description": "FortiCWP",
+  "id": "854209929931"
+}, {
+  "owner": "Azure Sentinel",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Azure Sentinel",
+  "id": "197857026523"
+}, {
+  "owner": "Citrix",
+  "source": "https://docs.citrix.com/en-us/citrix-application-delivery-management-service/hybrid-multi-cloud-deployments/autoscale-for-aws/autoscale-for-aws-configuration.html",
+  "description": "ADC Application Deployment, ADM Delivery Management",
+  "id": "835822366011"
+}, {
+  "owner": "NetApp",
+  "source": "https://docs.netapp.com/us-en/cloud_volumes/aws/media/cvs_aws_account_setup.pdf",
+  "description": "CloudManager for CloudVolumes",
+  "id": "695990169366"
+}, {
+  "owner": "Axonius.com",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Axonius.com",
+  "id": "802876684602"
+}, {
+  "owner": "Axonius.com",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Axonius.com",
+  "id": "817364327683"
+}, {
+  "owner": "Axonius.com",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Axonius.com",
+  "id": "405773942477"
+}, {
+  "owner": "Fugue",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Fugue",
+  "id": "370134896156"
+}, {
+  "owner": "Fugue",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Fugue",
+  "id": "944830124550"
+}, {
+  "owner": "CloudPhysics",
+  "source": "https://www.cloudphysics.com/connectaws/",
+  "description": "CloudPhysics",
+  "id": "863002038009"
+}, {
+  "owner": "QRadar",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "QRadar",
+  "id": "429269239926"
+}, {
+  "owner": "LogicMonitor",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "LogicMonitor",
+  "id": "282028653949"
+}, {
+  "owner": "McAfee",
+  "source": "https://docs.mcafee.com/bundle/prod-name-n.n.x-guide-type/page/GUID-9B6E696A-78DA-4F41-A0FC-39699DD39639.html",
+  "description": "MVision ePO",
+  "id": "307653271100"
+}, {
+  "owner": "McAfee",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "McAfee MVISION Cloud Native Application Protection Platform (CNAPP)",
+  "id": "297986523463"
+}, {
+  "owner": "Symantec",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Cloud Workload Protection",
+  "id": "754237914691"
+}, {
+  "owner": "Symantec",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Cloud Workload Protection",
+  "id": "033496790460"
+}, {
+  "owner": "Tenable",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Tenable.io",
+  "id": "422820575223"
+}, {
+  "owner": "Barracuda Networks",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Barracuda Cloud Security Sentry",
+  "id": "151784055945"
+}, {
+  "owner": "Check Point",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Check Point CloudGuard IaaS",
+  "id": "758245563457"
+}, {
+  "owner": "Check Point",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Check Point CloudGuard Posture Management",
+  "id": "634729597623"
+}, {
+  "owner": "CrowdStrike",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "CrowdStrike Falcon",
+  "id": "517716713836"
+}, {
+  "owner": "CyberArk",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Privileged Threat Analytics",
+  "id": "749430749651"
+}, {
+  "owner": "Forcepoint",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Forcepoint CASB, DLP, NGFW",
+  "id": "365761988620"
+}, {
+  "owner": "Guardicore",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Guardicore Centra and Infection Monkey",
+  "id": "324264561773"
+}, {
+  "owner": "IBM",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "IBM QRadar SIEM",
+  "id": "949680696695"
+}, {
+  "owner": "Sophos",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Sophos Server Protection",
+  "id": "062897671886"
+}, {
+  "owner": "Turbot",
+  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+  "description": "Turbot",
+  "id": "453761072151"
+}, {
+  "owner": "Logz.io",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Logz.io",
+  "id": "406095609952"
+}, {
+  "owner": "Xi Frame",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Xi Frame",
+  "id": "178591426237"
+}, {
+  "owner": "CloudWisdom",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "CloudWisdom, metricly",
+  "id": "270852171095"
+}, {
+  "owner": "Rockset",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Rockset",
+  "id": "216690786812"
+}, {
+  "owner": "CloudHiro",
+  "source": "https://cloudhiro.com/AWS/AWSRegistrationGuide.php",
+  "description": "CloudHiro",
+  "id": "545334166883"
+}, {
+  "owner": "Densify",
+  "source": "https://www.densify.com/docs/Content/Data_Collection_for_Public_Cloud_Systems/AWS_Data_Collection_Prerequisites_for_an_IAM_Role.htm",
+  "description": "Densify",
+  "id": "036437403198"
+}, {
+  "owner": "Armor Anywhere",
+  "source": [
+    "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+    "https://docs.armor.com/pages/viewpage.action?pageId=20709565"
+  ],
+  "description": "Armor Anywhere",
+  "id": "679703615338"
+}, {
+  "owner": "Armor Anywhere",
+  "source": [
+    "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+    "https://docs.armor.com/pages/viewpage.action?pageId=20709565"
+  ],
+  "description": "Armor Anywhere",
+  "id": "345186984524"
+}, {
+  "owner": "Genys",
+  "source": "https://help.mypurecloud.com/articles/create-iam-resources-to-invoke-an-aws-lambda-function/",
+  "description": "Genys",
+  "id": "765628985471"
+}, {
+  "owner": "site24x7",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "site24x7",
+  "id": "949777495771"
+}, {
+  "owner": "ylastic",
+  "source": "https://blog.ylastic.com/post/153943542476/iam-role-with-external-id-for-cross-account-access",
+  "description": "ylastic",
+  "id": "710193521658"
+}, {
+  "owner": "qubole",
+  "source": "https://docs.qubole.com/en/latest/user-guide/managing-accounts/aws/iam-roles/override-iam-roles.html",
+  "description": "qubole",
+  "id": "805246085872"
+}, {
+  "owner": "VManage",
+  "source": "https://www.cisco.com/c/en/us/td/docs/routers/sdwan/configuration/Network-Optimization-and-High-Availability/Network-Optimization-High-Availability-book/b_Network-Optimization-and-HA_chapter_00.html",
+  "description": "VManage",
+  "id": "200235630647"
+}, {
+  "owner": "Cloudaware",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Cloudaware",
+  "id": "814021343637"
+}, {
+  "owner": "Cloud Ranger",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Cloud Ranger",
+  "id": "558211695259"
+}, {
+  "owner": "FoxPass",
+  "source": "https://docs.foxpass.com/docs/access-control-integration-with-amazon-ec2",
+  "description": "FoxPass",
+  "id": "843529240033"
+}, {
+  "owner": "Nirmata",
+  "source": "https://nirmata-documentation.readthedocs.io/en/latest/CloudProviders.html",
+  "description": "Nirmata",
+  "id": "094919933512"
+}, {
+  "owner": "GitLab",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "GitLab",
+  "id": "855262394183"
+}, {
+  "owner": "GitLab",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "GitLab",
+  "id": "956491294349"
+}, {
+  "owner": "Snyk",
+  "source": "https://support.snyk.io/hc/en-us/articles/360004002418-AWS-Lambda-integration",
+  "description": "Snyk",
+  "id": "198361731867"
+}, {
+  "owner": "CloudCraft",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "CloudCraft",
+  "id": "968898580625"
+}, {
+  "owner": "rev.com",
+  "source": "https://www.rev.com/api/s3bucketpolicy",
+  "description": "rev.com",
+  "id": "414502572119"
+}, {
+  "owner": "Funnel",
+  "source": "https://help.funnel.io/en/articles/1494351-amazon-s3-bucket-configuration",
+  "description": "Funnel",
+  "id": "071303700930"
+}, {
+  "owner": "Domo",
+  "source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
+  "description": "Domo",
+  "id": "339405024189"
+}, {
+  "owner": "Domo",
+  "source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
+  "description": "Domo",
+  "id": "010251424122"
+}, {
+  "owner": "Domo",
+  "source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
+  "description": "Domo",
+  "id": "687132894031"
+}, {
+  "owner": "Domo",
+  "source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
+  "description": "Domo",
+  "id": "622384692065"
+}, {
+  "owner": "Atlas DataLake",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Atlas DataLake",
+  "id": "962727799805"
+}, {
+  "owner": "Upsolver",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "Upsolver",
+  "id": "428641199958"
+}, {
+  "owner": "Weave Cloud",
+  "source": "https://eksctl.io/",
+  "description": "Weave Cloud",
+  "id": "376248598259"
+}, {
+  "owner": "ChaosSearch",
+  "source": "https://docs.chaossearch.io/docs/prerequisites",
+  "description": "ChaosSearch",
+  "id": "515570774723"
+}, {
+  "owner": "EDB Postgres",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "EDB Postgres",
+  "id": "305753120797"
+}, {
+  "owner": "TheGlobalSolutions.net",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "TheGlobalSolutions.net",
+  "id": "726941830086"
+}, {
+  "owner": "wpengine",
+  "source": "https://wpengine.com/support/configuring-largefs-store-transfer-unlimited-data/",
+  "description": "wpengine",
+  "id": "902500896138"
+}, {
+  "owner": "cloudsqueeze",
+  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+  "description": "cloudsqueeze",
+  "id": "759994998399"
+}, {
+  "owner": "ThingSpace",
+  "source": "https://thingspace.verizon.com/resources/documentation/cloudconnector/Getting_Started/Streaming_to_AWS/",
+  "description": "ThingSpace",
+  "id": "675479154635"
+}, {
+  "owner": "Anodot",
+  "source": "https://support.anodot.com/hc/en-us/articles/360034553113-Enable-Reading-from-the-Kinesis-Stream",
+  "description": "Anodot",
+  "id": "340481513670"
+}, {
+  "owner": "MediaMath",
+  "source": "https://apidocs.mediamath.com/reporting/log-level-data-service/overview#data-security-and-authorization",
+  "description": "MediaMath",
+  "id": "794878508631"
+}, {
+  "owner": "Presidio",
+  "source": "customer IAM policy",
+  "description": "Presidio",
+  "id": "118652503430"
+}, {
+  "owner": "Cisco Umbrella",
+  "source": "https://docs.umbrella.com/umbrella-user-guide/docs/enable-logging-to-your-own-s3-bucket",
+  "description": "Cisco Umbrella",
+  "id": "568526795995"
+}, {
+  "owner": "Cloudflare",
+  "source": "https://developers.cloudflare.com/logs/logpush/aws-s3",
+  "description": "Cloudflare",
+  "id": "391854517948"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://forums.aws.amazon.com/thread.jspa?messageID=629256",
+  "description": "[Deprecated] AWS Log delivery Service",
+  "id": "858827067514"
+}, {
+  "owner": "Epsagon",
+  "source": "https://docs.epsagon.com/docs/faq",
+  "description": "Epsagon",
+  "id": "066549572091"
+}, {
+  "owner": "Turbot",
+  "source": "https://turbot.com/v5/docs/integrations/aws/import-aws-account",
+  "description": "Turbot",
+  "id": "287590803701"
+}, {
+  "owner": "Turbot",
+  "source": "https://turbot.com/v5/docs/integrations/aws/import-aws-account",
+  "description": "Turbot",
+  "id": "255798382450"
+}, {
+  "owner": "Qualys",
+  "source": "https://qualys-secure.force.com/discussions/s/question/0D52L00004TnxTqSAJ/aws-ec2-connector-creation-automation",
+  "description": "Qualys AWS EC2 Connector",
+  "id": "805950163170"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway us-east-1",
+  "id": "392220576650"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway us-east-2",
+  "id": "718770453195"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway",
+  "id": "968246515281 us-west-1"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway us-west-2",
+  "id": "109351309407"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway ca-central-1",
+  "id": "796887884028"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway eu-west-1",
+  "id": "631144002099"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway eu-west-2",
+  "id": "544388816663"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway eu-west-3",
+  "id": "061510835048"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway eu-central-1",
+  "id": "474240146802"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway eu-north-1",
+  "id": "394634713161"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway ap-northeast-1",
+  "id": "969236854626"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway ap-northeast-2",
+  "id": "020402002396"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway ap-southeast-1",
+  "id": "195145609632"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway ap-southeast-2",
+  "id": "798376113853"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway ap-south-1",
+  "id": "507069717855"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway ap-east-1",
+  "id": "174803364771"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway sa-east-1",
+  "id": "287228555773"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+  "description": "API Gateway me-south-1",
+  "id": "855739686837"
 }]
