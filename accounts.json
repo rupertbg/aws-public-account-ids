@@ -1064,8 +1064,8 @@
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway",
-  "id": "968246515281 us-west-1"
+  "description": "API Gateway us-west-1",
+  "id": "968246515281"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
