@@ -250,6 +250,116 @@
   "id": "075028567923"
 }, {
   "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - US East (N. Virginia) Region  - us-east-1 ",
+  "id": "368064434614"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - US East (Ohio) Region  - us-east-2 ",
+  "id": "790247189693"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - US West (N. California) Region  - us-west-1 ",
+  "id": "703715109447"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - US West (Oregon) Region  - us-west-2 ",
+  "id": "473191095985"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Africa (Cape Town) Region  - af-south-1 ",
+  "id": "420376844563"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Hong Kong) Region  - ap-east-1 ",
+  "id": "651179539253"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Jakarta) Region  - ap-southeast-3 ",
+  "id": "623197973179"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Mumbai) Region  - ap-south-1 ",
+  "id": "408097707231"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Osaka) Region  - ap-northeast-3 ",
+  "id": "398671365691"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Seoul) Region  - ap-northeast-2 ",
+  "id": "713597048934"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Singapore) Region  - ap-southeast-1 ",
+  "id": "960118270566"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Sydney) Region  - ap-southeast-2 ",
+  "id": "485979073181"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Tokyo) Region  - ap-northeast-1 ",
+  "id": "615915377779"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Canada (Central) Region  - ca-central-1 ",
+  "id": "764870610256"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Europe (Frankfurt) Region  - eu-central-1 ",
+  "id": "434091160558"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Europe (Ireland) Region  - eu-west-1 ",
+  "id": "246478207311"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Europe (London) Region  - eu-west-2 ",
+  "id": "885798887673"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Europe (Milan) Region  - eu-south-1 ",
+  "id": "041313461515"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Europe (Paris) Region  - eu-west-3 ",
+  "id": "694668203235"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Europe (Stockholm) Region  - eu-north-1 ",
+  "id": "553461782468"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - Middle East (Bahrain) Region  - me-south-1 ",
+  "id": "051362938876"
+}, {
+  "owner": "Amazon Web Services",
+  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+  "description": "AWS RedShift in CloudTrail logs - South America (São Paulo) Region  - sa-east-1 ",
+  "id": "392442076723,"
+}, {
+  "owner": "Amazon Web Services",
   "description": "Cloudfront logs",
   "id": "cloudfront"
 }, {
@@ -335,127 +445,127 @@
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail US East (Ohio) us-east-2",
+  "description": "AWS CloudTrail - US East (Ohio) - us-east-2",
   "id": "475085895292"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail US East (N. Virginia) us-east-1",
+  "description": "AWS CloudTrail - US East (N. Virginia) - us-east-1",
   "id": "086441151436"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail US West (N. California) us-west-1",
+  "description": "AWS CloudTrail - US West (N. California) - us-west-1",
   "id": "388731089494"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail US West (Oregon) us-west-2",
+  "description": "AWS CloudTrail - US West (Oregon) - us-west-2",
   "id": "113285607260"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Canada (Central) ca-central-1",
+  "description": "AWS CloudTrail - Canada (Central) - ca-central-1",
   "id": "819402241893"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Africa (Cape Town) af-south-1",
+  "description": "AWS CloudTrail - Africa (Cape Town) - af-south-1",
   "id": "525921808201"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Hong Kong) ap-east-1",
+  "description": "AWS CloudTrail - Asia Pacific (Hong Kong) - ap-east-1",
   "id": "119688915426"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Mumbai) ap-south-1",
+  "description": "AWS CloudTrail - Asia Pacific (Mumbai) - ap-south-1",
   "id": "977081816279"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Osaka) ap-northeast-3",
+  "description": "AWS CloudTrail - Asia Pacific (Osaka) - ap-northeast-3",
   "id": "765225791966"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Seoul) ap-northeast-2",
+  "description": "AWS CloudTrail - Asia Pacific (Seoul) - ap-northeast-2",
   "id": "492519147666"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Singapore) ap-southeast-1",
+  "description": "AWS CloudTrail - Asia Pacific (Singapore) - ap-southeast-1",
   "id": "903692715234"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Sydney) ap-southeast-2",
+  "description": "AWS CloudTrail - Asia Pacific (Sydney) - ap-southeast-2",
   "id": "284668455005"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Asia Pacific (Tokyo) ap-northeast-1",
+  "description": "AWS CloudTrail - Asia Pacific (Tokyo) - ap-northeast-1",
   "id": "216624486486"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail China (Beijing) cn-north-1",
+  "description": "AWS CloudTrail - China (Beijing) - cn-north-1",
   "id": "193415116832"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail China (Ningxia) cn-northwest-1",
+  "description": "AWS CloudTrail - China (Ningxia) - cn-northwest-1",
   "id": "681348832753"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Frankfurt) eu-central-1",
+  "description": "AWS CloudTrail - Europe (Frankfurt) - eu-central-1",
   "id": "035351147821"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Stockholm) eu-north-1",
+  "description": "AWS CloudTrail - Europe (Stockholm) - eu-north-1",
   "id": "829690693026"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Ireland) eu-west-1",
+  "description": "AWS CloudTrail - Europe (Ireland) - eu-west-1",
   "id": "859597730677"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (London) eu-west-2",
+  "description": "AWS CloudTrail - Europe (London) - eu-west-2",
   "id": "282025262664"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Paris) eu-west-3",
+  "description": "AWS CloudTrail - Europe (Paris) - eu-west-3",
   "id": "262312530599"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Europe (Milan) eu-south-1",
+  "description": "AWS CloudTrail - Europe (Milan) - eu-south-1",
   "id": "669305197877"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail South America (São Paulo) sa-east-1",
+  "description": "AWS CloudTrail - South America (São Paulo) - sa-east-1",
   "id": "814480443879"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail Middle East (Bahrain) me-south-1",
+  "description": "AWS CloudTrail - Middle East (Bahrain) - me-south-1",
   "id": "034638983726"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail AWS GovCloud (US-East) us-gov-east-1",
+  "description": "AWS CloudTrail - AWS GovCloud (US-East) - us-gov-east-1",
   "id": "886388586500"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail AWS GovCloud (US-West) us-gov-west-1",
+  "description": "AWS CloudTrail - AWS GovCloud (US-West) - us-gov-west-1",
   "id": "608710470296"
 }, {
   "owner": "Summit Route",
@@ -1054,91 +1164,91 @@
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway us-east-1",
+  "description": "API Gateway - us-east-1",
   "id": "392220576650"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway us-east-2",
+  "description": "API Gateway - us-east-2",
   "id": "718770453195"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway us-west-1",
+  "description": "API Gateway - us-west-1",
   "id": "968246515281"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway us-west-2",
+  "description": "API Gateway - us-west-2",
   "id": "109351309407"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ca-central-1",
+  "description": "API Gateway - ca-central-1",
   "id": "796887884028"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-west-1",
+  "description": "API Gateway - eu-west-1",
   "id": "631144002099"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-west-2",
+  "description": "API Gateway - eu-west-2",
   "id": "544388816663"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-west-3",
+  "description": "API Gateway - eu-west-3",
   "id": "061510835048"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-central-1",
+  "description": "API Gateway - eu-central-1",
   "id": "474240146802"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway eu-north-1",
+  "description": "API Gateway - eu-north-1",
   "id": "394634713161"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-northeast-1",
+  "description": "API Gateway - ap-northeast-1",
   "id": "969236854626"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-northeast-2",
+  "description": "API Gateway - ap-northeast-2",
   "id": "020402002396"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-southeast-1",
+  "description": "API Gateway - ap-southeast-1",
   "id": "195145609632"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-southeast-2",
+  "description": "API Gateway - ap-southeast-2",
   "id": "798376113853"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-south-1",
+  "description": "API Gateway - ap-south-1",
   "id": "507069717855"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway ap-east-1",
+  "description": "API Gateway - ap-east-1",
   "id": "174803364771"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway sa-east-1",
+  "description": "API Gateway - sa-east-1",
   "id": "287228555773"
 }, {
   "owner": "Amazon Web Services",
   "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway me-south-1",
+  "description": "API Gateway - me-south-1",
   "id": "855739686837"
 }]
