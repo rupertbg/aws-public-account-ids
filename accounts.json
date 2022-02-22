@@ -14,11 +14,6 @@
   "description": "SegmentIO",
   "id": "595280932656"
 }, {
-  "owner": "StackDriver",
-  "source": "https://web.archive.org/web/20150423044518/https://support.stackdriver.com/customer/portal/articles/1491790-setting-up-stackdriver-for-your-aws-account",
-  "description": "StackDriver",
-  "id": "314658760392"
-}, {
   "owner": "Zencoder",
   "source": "https://support.brightcove.com/using-zencoder-s3",
   "description": "The Performance Leader in File Cloud Encoding",
@@ -257,11 +252,6 @@
   "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-getting-started.html#step-2",
   "description": "Billing",
   "id": "386209384616"
-}, {
-  "owner": "Dome9",
-  "source": "http://support.dome9.com/knowledgebase/articles/796419-convert-dome9-aws-account-connection-from-iam-user",
-  "description": "Dome9 delivers full visibility, control and faster time to protection as organizations scale in AWS, Azure and Google Cloud environments.",
-  "id": "634729597623"
 }, {
   "owner": "Google",
   "source": "https://support.stackdriver.com/customer/portal/articles/1491790-setting-up-stackdriver-for-your-aws-account",
