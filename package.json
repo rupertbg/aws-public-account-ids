@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rupertbg/aws-public-account-ids#readme",
   "dependencies": {
-    "ejs": "^2.7.1"
+    "ejs": "^3.1.10"
   }
 }
